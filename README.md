@@ -1,12 +1,12 @@
-## Hi there 👋
+## Hi there
 
-🌱 I’m currently trying to build a template with Node And ReactJS
+I’m currently trying to build a template with Node And ReactJS
 
-⚡ My most recent job-project: 
+My most recent job-project: 
 
 - A project fork from [workadventure](https://github.com/thecodingmachine/workadventure)
 
-⚡ My most recent self-project: 
+My most recent self-project: 
 
 - [English Esport](https://github.com/trinhxhai2000/EE)
 
