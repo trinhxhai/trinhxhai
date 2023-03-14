@@ -2,7 +2,7 @@
 
 🌱 I’m currently trying to build a template with Node And ReactJS
 
-⚡ My most recent project: [Englist Esport](https://github.com/trinhxhai2000/EE)
+⚡ My most recent project: [English Esport](https://github.com/trinhxhai2000/EE)
 
 ### My blogs:
 
