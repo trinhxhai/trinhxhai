@@ -1,4 +1,21 @@
-### Hi there 👋
+## Hi there 👋
+
+🌱 I’m currently trying to build a template with Node And ReactJS
+
+⚡ My most recent project: [Englist Esport](https://github.com/trinhxhai2000/EE)
+
+### My blog:
+
+- [Fenwick/BIT](https://olp.hou.edu.vn/post/8-fenwick)
+
+- [Matrix Exponentiation](https://olp.hou.edu.vn/post/13-blog-matrix-exponentiation-txhai12)
+
+- [DSU](https://olp.hou.edu.vn/post/12-blog-dsu-txhai12)
+
+### My account on CP platform:
+
+- Codeforces: [txhai12](https://codeforces.com/profile/txhai12)
+
 
 <!--
 **trinhxhai/trinhxhai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
