@@ -1,6 +1,6 @@
 ## Hi there
 
-I’m currently trying to build a template with Node And ReactJS
+I’m currently trying to build a template with Node, ReactJS and Postgres
 
 My most recent job-project: 
 
