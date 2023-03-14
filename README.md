@@ -2,7 +2,13 @@
 
 🌱 I’m currently trying to build a template with Node And ReactJS
 
-⚡ My most recent project: [English Esport](https://github.com/trinhxhai2000/EE)
+⚡ My most recent job-project: 
+
+- A project fork from [workadventure](https://github.com/thecodingmachine/workadventure)
+
+⚡ My most recent self-project: 
+
+- [English Esport](https://github.com/trinhxhai2000/EE)
 
 ### My blogs:
 
@@ -12,9 +18,10 @@
 
 - [DSU](https://olp.hou.edu.vn/post/12-blog-dsu-txhai12)
 
-### My accounts on CP platform:
+### My accounts:
+- Email: trinhxhai@gmail.com
+- [Codeforces](https://codeforces.com/profile/txhai12)
 
-- Codeforces: [txhai12](https://codeforces.com/profile/txhai12)
 
 <!--
 **trinhxhai/trinhxhai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
